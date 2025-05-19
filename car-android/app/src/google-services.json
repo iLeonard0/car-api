@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717801167100",
+    "project_id": "car-api-aula",
+    "storage_bucket": "car-api-aula.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717801167100:android:4794ca8bff21d54fa7df79",
+        "android_client_info": {
+          "package_name": "com.example.carapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717801167100-4a2nonn417hkqttpc2a031bhsjeimedp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carapi",
+            "certificate_hash": "bcc89e88ebf5e7128d7a2531b7f49580fd846f45"
+          }
+        },
+        {
+          "client_id": "717801167100-1rhdog3puqn6o08jje9f1pulorpkg313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkB_imtAj2ZYlyXLnIqok2Dszq-IRLcvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717801167100-1rhdog3puqn6o08jje9f1pulorpkg313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

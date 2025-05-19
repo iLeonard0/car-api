@@ -1,0 +1,82 @@
+[
+  {
+    "id": "001",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/2018_Peugeot_208_Allure.jpg",
+    "year": "2020/2021",
+    "name": "Peugeot 208",
+    "licence": "ABC-1234",
+    "place": { "lat": -23.5505, "long": -46.6333 }
+  },
+  {
+    "id": "002",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/7ZQKzV/s3/avaliacao-hyundai-hb20s-limited-plus-2025.jpg",
+    "year": "2019/2020",
+    "name": "Hyundai HB20S",
+    "licence": "DEF-5678",
+    "place": { "lat": -22.9068, "long": -43.1729 }
+  },
+  {
+    "id": "003",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwnBoFjqtpRm9tN-9Sj_IUXabnWvqfPOxuFl_04C1vXKv7h758PkLYRKJOx3ffhdK2HLtI96hf_EvxBvm1H15sioj7vZs6EXDrxhe8CAfUSP_r3tphQ8GRmPDolOjX8uSR9W-1hGPwXY5mQi9J17EKvbySfgsXirZ7_JvnYIVCyVUnYWwqPOiJGZluHg/s2560/Novo-Fiat-Cronos-2023%20%281%29.jpg",
+    "year": "2018/2018",
+    "name": "Fiat Cronos",
+    "licence": "GHI-9012",
+    "place": { "lat": -19.9167, "long": -43.9345 }
+  },
+  {
+    "id": "004",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/9mZAeX/s1/renault-kwid-zen-2023.jpg",
+    "year": "2021/2021",
+    "name": "Renault Kwid",
+    "licence": "JKL-3456",
+    "place": { "lat": -15.7801, "long": -47.9292 }
+  },
+  {
+    "id": "005",
+    "imageUrl": "https://revistacarro.com.br/wp-content/uploads/2020/09/fiat-argo-trekking-2021.jpg",
+    "year": "2020/2020",
+    "name": "Fiat Argo",
+    "licence": "MNO-7890",
+    "place": { "lat": -12.9714, "long": -38.5014 }
+  },
+  {
+    "id": "006",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/AkB8vx/s3/fiat-mobi-trekking-2023.jpg",
+    "year": "2017/2018",
+    "name": "Fiat Mobi",
+    "licence": "PQR-2345",
+    "place": { "lat": -8.0476, "long": -34.8770 }
+  },
+  {
+    "id": "007",
+    "imageUrl": "https://www.autoo.com.br/fotos/2021/12/1280_960/chevrolet_onix-plus_2022_1_02122021_69990_1280_960.jpg",
+    "year": "2019/2020",
+    "name": "Chevrolet Onix Plus",
+    "licence": "STU-6789",
+    "place": { "lat": -1.4558, "long": -48.4902 }
+  },
+  {
+    "id": "008",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/JO3Gw6/s3/novo-hyundai-hb20-edicao-especial.jpg",
+    "year": "2022/2023",
+    "name": "Hyundai HB20",
+    "licence": "VWX-1234",
+    "place": { "lat": -3.1190, "long": -60.0217 }
+  },
+  {
+    "id": "009",
+    "imageUrl": "https://media.chevrolet.com/content/media/br/pt/chevrolet/vehicles/Chevrolet/carros/onix/2020/_jcr_content/mediaVehiclePar/image.img.jpg/1581970753698.jpg",
+    "year": "2020/2021",
+    "name": "Chevrolet Onix",
+    "licence": "YZA-5678",
+    "place": { "lat": -25.4284, "long": -49.2733 }
+  },
+  {
+    "id": "010",
+    "imageUrl": "https://cdn.oantagonista.com/uploads/2024/04/volkswagen-polo-gti-edition-25.jpg",
+    "year": "2021/2022",
+    "name": "Volkswagen Polo",
+    "licence": "BCD-9012",
+    "place": { "lat": -27.5954, "long": -48.5480 }
+  }
+]
